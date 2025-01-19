@@ -58,7 +58,7 @@ import Link from 'next/link'
                 <input
                   type="text"
                   placeholder="Search for anything..."
-                  className="w-full px-4 py-2 rounded-full bg-white/20 text-white placeholder-white/50 focus:outline-none"
+                  className="w-full px-4 py-2 rounded-full bg-white text-[#252b60] placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#252b60]"
                 />
               </div>
 
